@@ -1,131 +1,131 @@
 # Glossary
 [//]: # (Version:1.0.0)
-This is a glossary of terms as used in this essay. These do not necessarily have a standardized meaning to other people. Eric S. Raymond has compiled a massive and informative glossary[HackerDict] that rather surprisingly can pleasurably be read cover-to-cover once you can appreciate a fraction of it.
+В данном глоссарии собраны термирны, использующиеся в эссе. Термины необязательно имеют стандартное для большинства людей значение. Eric S. Raymond собрал массивный и информативный глоссарий[HackerDict], оценив малую часть которого, можно с удовольствием прочесть от корки до корки, как бы это странно ни звучало.
 
 ### unk-unk
 
-Slang for unknown-unknown. Problems that cannot presently even be conceptualized that will steal time away from the project and wreck the schedule.
+Жаргон для "неизвестное-неизвестное". Это проблемы, которые в настоящее время невозможно представить даже концептуально, и которые будут отнимать время, заложенное на проект, и сбивать график.
 
 ### printlining
 
-The insertion of statements into a program on a strictly temporary basis that output information about the execution of the program for the purpose of debugging.
+Вставка в программу временных команд, которые выводят информацию о ее выполнении для последующей отладки.
 
 ### logging
 
-The practice of writing a program so that it can produce a configurable output log describing its execution.
+Практика писать программу таким образом, чтобы она могла выводить настраиваемый отчет, описывающий ход ее исполнения.
 
 ### divide and conquer
 
-A technique of top-down design and, importantly, of debugging that is the subdivision of a problem or a mystery into progressively smaller problems or mysteries.
+Техника проектирования и отладки по принципу "сверху-вниз". Заключается в разделении большой проблемы или задачи на составные проблемы или задачи меньшего размера. 
 
 ### vapour
 
-Illusionary and often deceptive promises of software that is not yet for sale and, as often as not, will never materialize into anything solid.
+Воображаемые и часто обманчивые обещания насчет программного обеспечения, которое еще не готово для выпуска, и которое зачастую никогда не преобразуется в нечто работающее.
 
 ### boss
 
-The person who sets your tasks. In some cases, the user is the boss.
+Человек, который назначает вам задачи. В некоторых случаях, это сам пользователь.
 
 ### tribe
 
-The people with whom you share loyalty to a common goal.
+Люди, которые разделяют с вами верность некой общей цели.
 
 ### low-hanging fruit
 
-Big improvements that cost little.
+Существенные улучшения, которые требуют мало затрат.
 
 ### Entrepreneur
 
-The initiator of projects.
+Иницатор проектов.
 
 ### business
 
-A group of people organized for making money.
+Группа людей, организованных для получения прибыли.
 
 ### company
 
-A group of people organized for making money.
+Группа людей, организованных для получения прибыли.
 
 ### scroll blindness
 
-The effect of being unable to find information you need because it is buried in too much other, less interesting information.
+Невозможность найти нужную информацию из-за того, что она спрятана в большом количестве другой, менее интересной, информации.
 
 ### wall-clock
 
-Actually time as measured by a clock on a wall, as opposed to CPU time.
+Фактическое время, измеряемое настенными часами, противоположность процессорного времени.
 
 ### bottleneck
 
-The most important limitation in the performance of a system. A constriction that limits performance.
+Главное ограничение в производительности системы. Ограничение, которые снижает производительность.
 
 ### master
 
-A unique piece of information from which all cached copies are derived that serves as the official definition of that data.
+Уникальный фрагмент информация, от которого происходят все кэшированные копии. Служит официальным определением данных.
 
 ### heap allocated
 
-Memory can be said to be heap allocated whenever the mechanism for freeing it is complicated.
+Память можно назвать "размещенной в куче", когда механизм по ее освобождению можно назвать сложным.
 
 ### garbage
 
-Memory which is being taken up by objects your application no longer needs.
+Память, которую занимают ненужные более для приложения объекты.
 
 ### garbage collector
 
-A system for recycling garbage.
+Система для обработки garbage.
 
 ### memory leak
 
-The unwanted collection of references to objects that prevents garbage collection (or a bug in the garbage collector or memory management system!) that causes the program to gradually increase its memory demands over time.
+Набор нежелаемых ссылок на объекты, которые мешают сборке мусора. Либо ошибка в сборщике мусоре или системе управления памяти. Приводит к постепенному увеличению памяти, которую запрашивает программа с течением времени.
 
 ### Extreme Programming
 
-A style of programming emphasizing communication with the customer and automated testing.
+Стиль разработки, которые акцентируется на общении с клиентами и автоматизированным тестированием.
 
 ### hitting the wall
 
-To run out of a specific resource causing performance to degrade sharply rather than gradually.
+Исчерпать некий ресурс и тем самым резко снизить производительность программы в противоположность постепенному снижению.
 
 ### speculative programming
 
-Producing a feature before it is really known if that feature will be useful.
+Создание функции до того, как точно определено, будет ли она полезна.
 
 ### information hiding
 
-A design principle that seeks to keep things independent and decoupled by using interfaces that expose as little information as possible.
+Принцип проектирования, которые стремится изолировать друг от друга компоненты через внешние интерфейсы, предоставляющие необходимый минимум информации.
 
 ### object-oriented programming
 
-An programming style emphasizing the the management of state inside objects.
+Стиль программирования, акцентирующийся на управлении внутренним состоянием объектов.
 
 ### communication languages
 
-A language designed primarily for standardization rather than execution.
+Язык, спроектированный в первую очередь для стандартизации, чем для непосредственного использования.
 
 ### boxes and arrows
 
-A loose, informal style of making diagrams consisting of boxes and arrows drawn between those boxes to show the relationships. This contrast with formal diagram methodologies, such as UML.
+Свободный, неформальный стиль построения диаграмм из ячеек и стрелок, отображающих отношения. Противопоставляется формальным методологиям диаграмм, таким как UML.
 
 ### lingua franca
 
-A language so popular as to be a de facto standard for its field, as French was for international diplomacy at one time.
+Популярный в своей области язык, ставший де-факто стандартом. Например, как французский был в одно время для международной дипломатии.
 
 ### buy vs. build
 
-An adjective describing a choice between spending money for software or writing it your self.
+Выбор между покупкой программного обеспечения и самостоятельной разработкой.
 
 ### mere work
 
-Work that requires little creativity and entails little risk. Mere work can be estimated easily.
+Работа, которая требует мало творчества и подразумевает малый риск. Можно легко оценить с точки зрения временных затрат.
 
 ### programming notation
 
-A synonym for programming language that emphasizes the mathematical nature of programming language and their relative simplicity compared to natural languages.
+Синоним для термина "языка программирования", который почеркивает математическую природу языков программирования и их простоту относительно естественных языков.
 
 ### strawman
 
-A document meant to be the starting point of a technical discussion. A strawman may lead to a stickman, tinman, woodman, ironman, etc.
+Документ, который является стартовой точкой технической дискуссиии. Может вести к последующим версиям документации.
 
 ### white-paper
 
-An informative document that is often meant to explain or sell a product or idea to an audience different than the programmers of that product or idea.
+Информативный документ, который часто предназначен объяснить или продать продукт или идею аудитории, которая отличается от разработчиков данного продукта или идеи.

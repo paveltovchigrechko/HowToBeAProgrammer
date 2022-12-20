@@ -6,21 +6,21 @@ Copyright 2002, 2003, 2016 Robert L. Read
 
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-## Introduction
-To be a good programmer is difficult and noble. The hardest part of making real a collective vision of a software project is dealing with one's coworkers and customers. Writing computer programs is important and takes great intelligence and skill. But it is really child's play compared to everything else that a good programmer must do to make a software system that succeeds for both the customer and myriad colleagues for whom she is partially responsible. In this essay I attempt to summarize as concisely as possible those things that I wish someone had explained to me when I was twenty-one.
+## Введение
+Быть хорошим программистом трудно и благородно. Самое сложное в коллективной разработке программного обеспечения это взаимодействие с коллегами и клиентами. Писать компьютерные программы важно и требует многих знаний и навыков, но это лишь детский лепет по сравнению с тем прочим, что хороший программист должен делать, чтобы создать программное обеспечение, успешное и для клиентов, и для множества коллег, за которых он несет частичную ответственность. В данном эссе я попытаюсь как можно более кратко изложить все те нюансы и детали, которые я сам бы хотел, чтобы кто-нибудь мне объяснил, когда мне был двадцать один год.
 
-This is very subjective and, therefore, this essay is doomed to be personal and somewhat opinionated. I confine myself to problems that a programmer is very likely to have to face in her work. Many of these problems and their solutions are so general to the human condition that I will probably seem preachy. I hope in spite of this that this essay will be useful.
+Это очень субъективная тема, поэтому данное эссе неизбежно будет отражением моих персональных взглядов и убеждений. Я ограничу себя проблемами, с которыми, скорее всего, столкнется почти каждый программист во время работы. Многие из них, а также их решения являются настолько общечеловеческими, что вероятно, мой тон покажется назидательным. Несмотря на это, я надеюсь, что эссе окажется полезным.
 
-Computer programming is taught in courses. The excellent books: The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96], and Extreme Programming Explained [XP99] all teach computer programming and the larger issues of being a good programmer. The essays of Paul Graham [PGSite] and Eric Raymond [Hacker] should certainly be read before or along with this article. This essay differs from those excellent works by emphasizing social problems and comprehensively summarizing the entire set of necessary skills as I see them.
+Программирование преподается на курсах. Великолепные книги The Pragmatic Programmer [Prag99], Code Complete [CodeC93], Rapid Development [RDev96] и Extreme Programming Explained [XP99]: все обучают программированию и более общим вопросам о том, как быть хорошим программистом. До или вместе с данной статьей непременно стоит ознакомиться также с эссе Paul Graham [PGSite] и Eric Raymond [Hacker]. Данное эссе слегка отличается от этих великолепных работ тем, что акцентирует внимание на социальных проблемах и обобщает набор необходимых программисту навыков так с моей личной точки зрения.
 
-In this essay the term boss is used to refer to whomever gives you projects to do. I use the words business, company, and tribe, synonymously except that business connotes moneymaking, company connotes the modern workplace and tribe is generally the people you share loyalty with.
+В данном эссе я называю "боссом" любого, кто ставит перед вами задачи. Слова "бизнес", "компания" и "племя" я использую как синонимы, кроме тех случаев, когда "бизнес" означает генерирование прибыли, "компания" --- место работы, а "племя" --- людей, с которыми вы разделяете преданность.
 
-Welcome to the tribe.
+Добро пожаловать в племя.
 
-## Contents
+## Содержание
 
-1. [Beginner](1-Beginner)
-	- Personal Skills
+1. [Начинающий разработчик](1-Beginner)
+	- Личные навыки
 		- [Learn to Debug](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
 		- [How to Debug by Splitting the Problem Space](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
 		- [How to Remove an Error](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
@@ -33,7 +33,7 @@ Welcome to the tribe.
 		- [How to Deal with Intermittent Bugs](1-Beginner/Personal-Skills/10-How-to-Deal-with-Intermittent-Bugs.md)
 		- [How to Learn Design Skills](1-Beginner/Personal-Skills/11-How-to-Learn-Design-Skills.md)
 		- [How to Conduct Experiments](1-Beginner/Personal-Skills/12-How-to-Conduct-Experiments.md)
-	- Team Skills
+	- Командные навыки
 		- [Why Estimation is Important](1-Beginner/Team-Skills/01-Why-Estimation-is-Important.md)
 		- [How to Estimate Programming Time](1-Beginner/Team-Skills/02-How-to-Estimate-Programming-Time.md)
 		- [How to Find Out Information](1-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
@@ -45,8 +45,8 @@ Welcome to the tribe.
 		- [Take Breaks when Stumped](1-Beginner/Team-Skills/09-Take-Breaks-when-Stumped.md)
 		- [How to Recognize When to Go Home](1-Beginner/Team-Skills/10-How-to-Recognize-When-to-Go-Home.md)
 		- [How to Deal with Difficult People](1-Beginner/Team-Skills/11-How-to-Deal-with-Difficult-People.md)
-2. [Intermediate](2-Intermediate)
-	- Personal Skills
+2. [Разработчик среднего уровня](2-Intermediate)
+	- Личные навыки
 		- [How to Stay Motivated](2-Intermediate/Personal-Skills/01-How-to-Stay-Motivated.md)
 		- [How to be Widely Trusted](2-Intermediate/Personal-Skills/02-How-to-be-Widely-Trusted.md)
 		- [How to Tradeoff Time vs. Space](2-Intermediate/Personal-Skills/03-How-to-Tradeoff-Time-vs-Space.md)
@@ -58,7 +58,7 @@ Welcome to the tribe.
 		- [Communication Languages](2-Intermediate/Personal-Skills/09-Communication-Languages.md)
 		- [Heavy Tools](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
 		- [How to analyze data](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
-	- Team Skills
+	- Командные навыки
 		- [How to Manage Development Time](2-Intermediate/Team-Skills/01-How-to-Manage-Development-Time.md)
 		- [How to Manage Third-Party Software Risks](2-Intermediate/Team-Skills/02-How-to-Manage-Third-Party-Software-Risks.md)
 		- [How to Manage Consultants](2-Intermediate/Team-Skills/03-How-to-Manage-Consultants.md)
@@ -73,7 +73,7 @@ Welcome to the tribe.
 		- [How to Evaluate Interviewees](2-Intermediate/Judgment/06-How-to-Evaluate-Interviewees.md)
 		- [How to Know When to Apply Fancy Computer Science](2-Intermediate/Judgment/07-How-to-Know-When-to-Apply-Fancy-Computer-Science.md)
 		- [How to Talk to Non-Engineers](2-Intermediate/Judgment/08-How-to-Talk-to-Non-Engineers.md)
-3. [Advanced](3-Advanced)
+3. [Продвинутый разработчик](3-Advanced)
 	- Technological Judgment
 		- [How to Tell the Hard From the Impossible](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
 		- [How to Utilize Embedded Languages](3-Advanced/Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
