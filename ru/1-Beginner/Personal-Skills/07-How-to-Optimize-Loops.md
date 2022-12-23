@@ -1,15 +1,15 @@
-# How to Optimize Loops
+# Как оптимизировать циклы
 [//]: # (Version:1.0.0)
-Sometimes you'll encounter loops, or recursive functions, that take a long time to execute and are bottlenecks in your product. Before you try to make the loop a little faster, spend a few minutes considering if there is a way to remove it entirely. Would a different algorithm do? Could you compute that while computing something else? If you can't find a way around it, then you can optimize the loop. This is simple; move stuff out. In the end, this will require not only ingenuity but also an understanding of the expense of each kind of statement and expression. Here are some suggestions:
+Иногда вам повстречаются затратные по времени циклы или рекурсивные функции, которые окажутся узкими местами в вашей программе. Перед тем, как вы попытаетесь ускорить цикл, потратьте некоторое время на то, чтобы понять, можно ли избавиться от него полностью. Сработает ли здесь какой-нибудь другой алгоритм? Можно ли вычислить это парамллельно с другим вычислением? Если вам не удалось найти обходной путь, тогда оптимизируйте цикл. Это просто: вынесите из него все, что можно. В конце концов, эта операция требует не только изобретательности, но и понимания, сколько затрачивается на каждое выражение и операцию. Вот несколько предложений:
 
-- Remove floating point operations.
-- Don't allocate new memory blocks unnecessarily.
-- Fold constants together.
-- Move I/O into a buffer.
-- Try not to divide.
-- Try not to do expensive typecasts.
-- Move a pointer rather than recomputing indices.
+- Уберите операции с плавающей точкой.
+- Не размещайте впустую новвые блоки под память.
+- Держите рядом константы.
+- Передвиньте операции чтения и записи в буфер.
+- Старайтесь не использовать деление.
+- Старайтесь не использовать затратные приведения типов данных.
+- Перемещайте указатель вместо того, чтобы пересчитывать индексы.
 
-The cost of each of these operations depends on your specific system. On some systems compilers and hardware do these things for you. Clear, efficient code is better than code that requires an understanding of a particular platform.
+Стоимость каждой из этих операций зависит от вашей конкретной системы. Где-то компиляторы и аппаратное обеспечение выполнит их вместо вас. Разумнеется, чистый и эффективный код лучше, чем тот, который требует понимания специфичной платформы.
 
-Next [How to Deal with I/O Expense](08-How-to-Deal-with-IO-Expense.md)
+Следующее: [Как справиться с расходами на операции чтения и записи](08-How-to-Deal-with-IO-Expense.md)

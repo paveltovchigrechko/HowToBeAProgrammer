@@ -1,13 +1,13 @@
-# How to Deal with I/O Expense
+# Как справиться с расходами на операции чтения и записи
 [//]: # (Version:1.0.0)
-For a lot of problems, processors are fast compared to the cost of communicating with a hardware device. This cost is usually abbreviated I/O, and can include network cost, disk I/O, database queries, file I/O, and other use of some hardware not very close to the processor. Therefore building a fast system is often more a question of improving I/O than improving the code in some tight loop, or even improving an algorithm.
+В большинстве случаев процессоры работают быстро по сравнению со взаимодействием с аппаратными устройствами. Затраты на это взаимодействие обычно объединяются под словами операции чтения и записи и включают сетевые запросы, чтение и запись на диски, запросы в базы данных, чтение и запись файлов и другое использование аппаратной части, иногда расположенной не совсем рявдом с процессором. Так образом, построение быстрой системы это чаще улучшение операций чтения и записи, чем улучшение кода в цикле или даже совершенствование алгоритма.
 
-There are two very fundamental techniques to improving I/O: caching and representation. Caching is avoiding I/O (generally avoiding the reading of some abstract value) by storing a copy of that value locally so no I/O is performed to get the value. The first key to caching is to make it crystal clear which data is the master and which are copies. There is only one master - period. Caching brings with it the danger that the copy sometimes can't reflect changes to the master instantaneously.
+Существует две фундаментальные техники по улучшению операций чтения и записи: кэширование и форматирование данных. Кэширование позволяет избежать чтения-записи (обычно чтения некого абстрактного значения) с помощью сохранения копии значений локально. Таким образом, операция чтения для получения значения не повторяется. Главное в кэшировании четко обозначить, какие данные являются исходными, а какие - копиями. Должен существовать только один исходник. Кэширование опасно тем, что иногда копия может не отразить изменения, произошедшие в исходных данных.
 
-Representation is the approach of making I/O cheaper by representing data more efficiently. This is often in tension with other demands, like human readability and portability.
+Форматирование данных это удешевление операций чтени и записи за счет более эффективного представления данных. Зачастую это конфликтует с другими требованиями к данным, вроде удобочитаемости и переносимости.
 
-Representations can often be improved by a factor of two or three from their first implementation. Techniques for doing this include using a binary representation instead of one that is human readable, transmitting a dictionary of symbols along with the data so that long symbols don't have to be encoded, and, at the extreme, things like Huffman encoding.
+Часто формат данных можно улучшить в 2-3 раза относительно их первоначального представления. Техники, которые позволяет сделать это, включают представление в двоичном виде вместо представление в удобочитаемом виде, передача справочников символов вместе с данными, так что длинные символы не нуждаются в кодировании, и, в крайнем случае, способы вроде алгоритма Хаффмана.
 
-A third technique that is sometimes possible is to improve the locality of reference by pushing the computation closer to the data. For instance, if you are reading some data from a database and computing something simple from it, such as a summation, try to get the database server to do it for you. This is highly dependent on the kind of system you're working with, but you should explore it.
+Третий способ, который иногда возможен, это перенос вычислений ближе к самим данным. Например, если вы читаете данные из базы данных и выполняете с ними простые операции вроде сложения, то стоит попытаться перенести эту операцию на сервер базы данных. Этот способ очень сильно зависит от типа вашей системы, но вам стоит отдельно изучить его.
 
-Next [How to Manage Memory](09-How-to-Manage-Memory.md)
+Следующее: [Как управлять памятью](09-How-to-Manage-Memory.md)
