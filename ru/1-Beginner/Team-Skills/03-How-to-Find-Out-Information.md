@@ -1,19 +1,19 @@
-# How to Find Out Information
+# Как искать информацию
 [//]: # (Version:1.0.0)
-The nature of what you need to know determines how you should find it.
+То, что вы ищете, определяет то, как вы это ищете.
 
-If you need information *about concrete things* that are objective and easy to verify, for example the latest patch level of a software product, ask a large number of people politely by searching the internet for it or by posting on a discussion group. Don't search on the internet for anything that smacks of either opinion or subjective interpretation: the ratio of drivel to truth is too high.
+Если вы ищете информацию о *конкретных знаниях*, которые объективны и легко проверить, например, последняя версия патча для программного обеспечения, то лучше вежливо спросить об этом в интернете или в дискуссионной группе. Не ищите в интернете то, что связано с мнением или субъективной интерпретацией, отношение бреда здесь слишком велико.
 
-If you need *general knowledge about something subjective* the history of what people have thought about it, go to the library (the physical building in which books are stored). For example, to learn about math or mushrooms or mysticism, go to the library.
+Если вы ищете *общие знания о чем-то субъективном*, историю мнений людей о предмете, то идите в библиотеку (я имею в виду настоящее здание с книгами). Например, чтобы узнать что-нибудь о математике, грибах или мистицизме, идите в библиотеку.
 
-If you need to know *how to do something that is not trivial* get two or three books on the subject and read them. You might learn how to do something trivial, like install a software package, from the Internet. You can even learn important things, like good programming technique, but you can easily spend more time searching and sorting the results and attempting to divine the authority of the results than it would take to read the pertinent part of a solid book.
+Если вам нужно узнать, *как сделать что-то нетривиальное*, достаньте две-три книги, посвященные этой теме, и прочтите их. В интернете вы можете узнать, как сделать тривиальные вещи, вроде установки пакета программного обеспечения. Вы даже можете узнать серьезные вещи, например, хорошие техники программирования, но здесь легко потратить гораздо больше времени на поиск и отбор результатов и попытки определить, насколько авторитетен источник, чем на чтение соответствующей части в серьезной книге.
 
-If you need *information that no one else could be expected to know* for example, ‘does this software that is brand new work on gigantic data sets?’, you must still search the internet and the library. After those options are completely exhausted, you may design an experiment to ascertain it.
+Если вы ищете *информацию, которую скорее всего никто не знает*, например, "работает ли это новое программное обеспечение с огромными наборами данных?", все равно стоит поискать ответ в интернете и в библиотеке. Когда эти способы будут исчерпаны, вы можете спроектировать эксперимент, чтобы убедиться в истинности найденных ответов.
 
-If you want an opinion or a value judgement that takes into account some unique circumstance, talk to an expert. For instance, if you want to know whether or not it is a good idea to build a modern database management system in LISP, you should talk to a LISP expert and a database expert.
+Если вас интересует мнение или экспертное суждение с учетом некоторых уникальных обстоятельств, поговорите с экспертом. Например, если вы хотите знать, хорошая ли это идея написать современную систему управления данных на Lisp, вам стоит поговорить с экспертом Lisp и с экспертом по базам данных.
 
-If you want to know *how likely it is* that a faster algorithm for a particular application exists that has not yet been published, talk to someone working in that field.
+Если вы хотите знать, *какова вероятность*, что существует более быстрый алгоритм для конкретного приложения, поговорите с тем, кто работает в этой области.
 
-If you want to make a *personal decision that only you can make* like whether or not you should start a business, try putting into writing a list of arguments for and against the idea. If that fails, consider divination. Suppose you have studied the idea from all angles, have done all your homework, and worked out all the consequences and pros and cons in your mind, and yet still remain indecisive. You now must follow your heart and tell your brain to shut up. The multitude of available divination techniques are very useful for determining your own semi-conscious desires, as they each present a complete ambiguous and random pattern that your own subconscious will assign meaning to.
+Если вы хотите принять личное решение, которое можете принять только вы, вроде начинать вам свой бизнес или нет, попробуйте составить список аргументов за и против этого решения. Если это не поможет, попробуйте принять решение наугад. Предположим, вы изучили идею со всех сторон, провели нужные исследования, выяснили все обстоятельства, преимущества и недостатки идеи, но все равно не можете решить. Тогда вы должны последовать своему сердцу и сказать своему разуму заткнуться. Множество доступных техник гадания очень полезны для определения ваших подсознательных желаний, так как каждая из них представляет собой совершенно неоднозначный и случайный образ, которому ваше подсознание придаст свое значение.
 
-Next [How to Utilize People as Information Sources](04-How-to-Utilize-People-as-Information-Sources.md)
+Следующее: [Как использовать людей в качестве источников информации](04-How-to-Utilize-People-as-Information-Sources.md)

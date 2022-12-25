@@ -1,20 +1,20 @@
-# How to Document Wisely
+# Как документировать правильно
 [//]: # (Version:1.0.0)
-Life is too short to write crap nobody will read; if you write crap, nobody will read it. Therefore a little good documentation is best. Managers often don't understand this, because even bad documentation gives them a false sense of security that they are not dependent on their programmers. If someone absolutely insists that you write truly useless documentation, say 'yes' and quietly begin looking for a better job.
+Жизнь слишком коротка, чтобы писать ерунду, которую никто не будет читать. Если вы пишите плохо, никто не будет это читать. Так что лучше всего документировать хорошо и немного. Менеджеры часто не понимают этого, потому что даже плохая документация дает им ложное чувство уверенности, что они не зависят от своих программистов. Если кто-то абсолютно настаивает, чтобы вы писали никому не нужную документацию, скажите "да" и начинайте спокойно искать новую работу. 
 
-There's nothing quite as effective as putting an accurate estimate of the amount of time it will take to produce good documentation into an estimate to slacken the demand for documentation. The truth is cold and hard: documentation, like testing, can take many times longer than developing code.
+Чтобы снизить запрос на документирование, нет ничего более эффективного, чем дать точную оценку времени, которое на него потребуется. Реалии жизни холодны и суровы: документирование, как и тестирование, может занять гораздо больше времени, чем разработка.
 
-Writing good documentation is, first of all, good writing. I suggest you find books on writing, study them, and practice. But even if you are a lousy writer or have poor command of the language in which you must document, the Golden Rule is all you really need: 'Do unto others as you would have them do unto you.' Take time to really think about who will be reading your documentation, what they need to get out of it, and how you can teach that to them. If you do that, you will be an above average documentation writer, and a good programmer.
+Написание хорошей документации это, прежде всего, умение хорошо писать. Я предлагаю вам найти книги о том, как хорошо писать, изучить их и практиковаться. Но даже если вы плохой писатель или плохо владеете языком, на котором должны документировать, все, что вам реально нужно, это золотое правило "Поступай с другими так, как вы хотите, чтобы поступали с вами". Подумайте о тех, кто будет читать вашу документацию, что им будет нужно найти в ней, как вы можете это до них донести. Уже с этим вы будете лучше среднего автора документации и хорошим программистом.
 
-When it comes to actually documenting code itself, as opposed to producing documents that can actually be read by non-programmers, the best programmers I've ever known hold a universal sentiment: write self-explanatory code and only document code in the places that you cannot make it clear by writing the code itself. There are two good reasons for this. First, anyone who needs to see code-level documentation will in most cases be able to and prefer to read the code anyway. Admittedly, this seems easier to the experienced programmer than to the beginner. More importantly however, is that the code and the documentation cannot be inconsistent if there is no documentation. The source code can at worst be wrong and confusing. The documentation, if not written perfectly, can lie, and that is a thousand times worse.
+Когда дело касается документирования самого кода в противоположность написанию документировании для непрограммистов, лучшие программисты, которых я знаю, придерживаются универсального принципа писать самодокументируемый код и добавлять комментарии только там, где невозможно объяснить решения самим кодом. Для такого подхода есть две веские причины. Во-первых, любой, кому понадобится документация кода, в большинстве случаев сможет и предпочтет читать сам код. Разумеется, сделать это проще опытным программистам, чем начинающим. Но гораздо важнее, что код и документация не могут противоречить друг другу, если отдельной документации нет. Исходный код в худшем случае может быть написан плохо и непонятно. Документация, если она написана плохо, может лгать, а это в тысячу раз хуже.
 
-This does not make it easier on the responsible programmer. How does one write self-explanatory code? What does that even mean? It means:
+Это не облегчает работу ответственным программистам. Как писать самодокументируемый код? Что это вообще значит? Это значит:
 
-- Writing code knowing that someone will have to read it;
-- Applying the golden rule;
-- Choosing a solution that is straightforward, even if you could get by with another solution faster;
-- Sacrificing small optimizations that obfuscate the code;
-- Thinking about the reader and spending some of your precious time to make it easier on her; and
-- Not ever using a function name like `foo`,`bar`, or `doIt`!
+- Писать код, думая о том, что кому-то придется его читать;
+- Применять золотое правило выше;
+- Выбирать решение, которое очевидно, даже если менее очевидное решение быстрее;
+- Жертвовать небольшими оптимизациями вместо того, чтобы делать код менее понятным;
+- Думать о читателе кода и тратить больше своего драгоценного времени на то, чтобы ему было проще;
+- Никогда не называть функции `foo`, `bar` или `doIt`!
 
-Next [How to Work with Poor Code](06-How-to-Work-with-Poor-Code.md)
+Следующее: [Как работать с плохим кодом](06-How-to-Work-with-Poor-Code.md)

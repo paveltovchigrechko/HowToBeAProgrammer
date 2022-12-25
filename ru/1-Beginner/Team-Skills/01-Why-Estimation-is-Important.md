@@ -1,15 +1,15 @@
-# Why Estimation is Important
+# Почему важно оценивать задачи
 [//]: # (Version:1.0.0)
-To get a working software system in active use as quickly as possible requires not only planning the development, but also planning the documentation, deployment, and marketing. In a commercial project it also requires sales and finance. Without predictability of the development time, it is impossible to plan these effectively.
+Чтобы как можно быстрее выпустить программное обеспечение, нужно планировать не только ее разработку, но и документирование, запуск и продвижение. В коммерческих проектах также важны продажи и финансовая составляющая. Без предсказуемости времени разработки невозможно все это запланировать эффективно.
 
-Good estimation provides predictability. Managers love it, as well they should. The fact that it is impossible, both theoretically and practically, to predict accurately how long it will take to develop software is often lost on managers. We are asked to do this impossible thing all the time, and we must face up to it honestly. However, it would be dishonest not to admit the impossibility of this task, and when necessary, explain it. There is a lot of room for miscommunication about estimates, as people have a startling tendency to think wishfully that the sentence:
+Хорошая оценка времени на разработку дает предсказуемость. Менеджеры очень любят это. Тот факт, что теоретически и практически невозможно точно предсказать, сколько времени уйдет на рзработку, часто упускается менеджерами. Нас все время просят сделать эту невыполнимую вещь, и мы должны честно в этом признаться. Однако, будет нечестно не признать невыполнимость этого задания и, когда необходимо, не объяснить это. Вокруг временных оценок много недопониманий, так как люди склонны принимать слова
 
-> I estimate that, if I really understand the problem, it is about 50% likely that we will be done in five weeks (if no one bothers us during that time).
+> Я думаю, что если я правильно понимаю проблему, то около 50% вероятности, что мы сделаем это за пять недель. При условии, что никто не будет нам мешать все это время.
 
-really means:
+в действительности означает
 
-> I promise to have it all done five weeks from now.
+> Я обещаю все сделать за пять недель, начиная с текущего момента.
 
-This common interpretation problem requires that you explicitly discuss what the estimate means with your boss or customer as if they were a simpleton. Restate your assumptions, no matter how obvious they seem to you.
+Это общая проблема непонимания требует, чтобы вы в явном виде обсуждали, что именно значит ваша временная оценка со своим боссом или клиентом. Так, словно они дети. Измените свои формулировки оценки, даже если они вам кажутся очевидными.
 
-Next [How to Estimate Programming Time](02-How-to-Estimate-Programming-Time.md)
+Следующее: [Как оценивать время на разработку](02-How-to-Estimate-Programming-Time.md)
