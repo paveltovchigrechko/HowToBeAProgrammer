@@ -1,5 +1,5 @@
-# Take Breaks when Stumped
+# Делайте перерывы, когда вы в тупике
 [//]: # (Version:1.0.0)
-When stumped, take a break. I sometimes meditate for 15 minutes when stumped and the problem magically unravels when I come back to it. A night's sleep sometimes does the same thing on a larger scale. It's possible that temporarily switching to any other activity may work.
+Когда вы в тупике, сделайте перерыв. Я иногда медитирую 15 минут, когда захожу в тупик, и проблема неожиданно разрешается, когда я возвращаюсь к ней. Ночной отдых иногда выполняет такую же роль в более широком масштабе. Возможно, поможет временное переключение на другую задачу.
 
-Next [How to Recognize When to Go Home](10-How-to-Recognize-When-to-Go-Home.md)
+Следующее: [Как понять, когда идти домой](10-How-to-Recognize-When-to-Go-Home.md)

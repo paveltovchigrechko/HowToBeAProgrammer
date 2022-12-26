@@ -1,9 +1,9 @@
-# How to Unit Test
+# Как писать юнит-тесты
 [//]: # (Version:1.0.0)
-Unit testing, the testing of an individual piece of coded functionality by the team that wrote it, is a part of coding, not something different from it. Part of designing the code is designing how it will be tested. You should write down a test plan, even if it is only one sentence. Sometimes the test will be simple: 'Does the button look good?' Sometimes it will be complex: 'Did this matching algorithm return precisely the correct matches?'
+Юнит-тестирование, то есть тестирование отдельных частей кода командой, написавшей его, это часть программирование, а не что-то отдельное от него. Проектирование того, как будет тестироваться код, это часть общего проектирования кода. Вам следует записывать планы по тестированию, даже если это всего одна фраза. Иногда тест окажется простым: "Хорошо ли выглядит кнопка?". Иногда он будет сложным: "Этот алгоритм сопоставления возвращает правильные совпадения?"
 
-Use assertion checking and test drivers whenever possible. This not only catches bugs early, but is very useful later on and lets you eliminate mysteries that you would otherwise have to worry about.
+Когда возможно, исползуйте проверки утверждений и тестовые драйверы. Они не только помогут найти баги в начале разработки, но будут полезны позже и позволят устранить более сложные проблемы.
 
-The Extreme Programming developers are writing extensively on unit testing effectively; I can do no better than to recommend their writings.
+Экстремальные программисты много пишут об эффективном юнит-тестировании. Я могу только посоветовать ознакомиться с их трудами на эту тему.
 
-Next [Take Breaks when Stumped](09-Take-Breaks-when-Stumped.md)
+Следующее: [Делайте перерывы, когда вы в тупике](09-Take-Breaks-when-Stumped.md)
