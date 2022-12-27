@@ -1,15 +1,15 @@
-# How to Deal with Difficult People
+# Как вести себя с трудными людьми
 [//]: # (Version:1.0.0)
-You will probably have to deal with difficult people. You may even be a difficult person yourself. If you are the kind of person who has a lot of conflicts with co-workers and authority figures, you should cherish the independence this implies, but work on your interpersonal skills without sacrificing your intelligence or principles.
+Скорее всего вам придется иметь дело с трудными людьми. Может быть, вы сами трудный человек. Если вы из тех, у кого часто возникают конфликты с коллегами и руководителями, то вы должны ценить свою независимость, но одновременно работать над своими навыками взаимодействия с остальными, не принося в жертву свои принципы и ум.
 
-This can be very disturbing to some programmers who have no experience in this sort of thing and whose previous life experience has taught them patterns of behaviour that are not useful in the workplace. Difficult people are often accustomed to disagreement and they are less affected by social pressure to compromise than others. The key is to respect them appropriately, which is more than you will want to but not as much as they might want.
+Это может стать проблемой для некоторых программистов, у которых нет опыта подобных ситуаций, и чей предыдущий жизненный опыт научил моделям поведения, которые не годятся в рабочем окружении. Трудные люди часто привыкают к разногласиям, и на них меньше, чем на остальных, действует социальное давление идти на компромисс. Главное - уважать их должным образом. Но это больше, чем захотите вы, и меньше, чем могут захотеть подобные люди.
 
-Programmers have to work together as a team. When disagreement arises, it must be resolved somehow, it cannot be ducked for long. Difficult people are often extremely intelligent and have something very useful to say. It is critical that you listen to and understand the difficult person without prejudice caused by the person. A failure to communicate is often the basis of disagreement but it can sometimes be removed with great patience. Try to keep this communication cool and cordial, and don't accept any baits for greater conflict that may be offered. After a reasonable period of trying to understand, make a decision.
+Программисты вынуждены работать вместе в команде. Когда возникает разногласие, его надо как-то решить, его нельзя игнорировать слишком долго. Трудные люди часто бывают чрезвычайно умны, и им есть, что полезного высказать. Очень важно слушать их и понимать без предубеждения, которое может вызывать их личность. Трудности в общении часто становятся источником разногласий, но их можно преодолеть терпением. Старайтесь держать общение в спокойном и вежливом тоне, не поддавайтесь на уловки увеличить конфликт. После того, как вы потратите разумное время на попытки понять оппонента, примите решение.
 
-Don't let a bully force you to do something you don't agree with. If you are the leader, do what you think is best. Don't make a decision for any personal reasons, and be prepared to explain the reasons for your decision. If you are a team-mate with a difficult person, don't let the leader's decision have any personal impact. If it doesn't go your way, do it the other way whole-heartedly.
+Не позволяйте грубой силе заствавлять вас делать то, с чем вы несогласны. Если вы лидер команды, принимайте то, что вы считаете лучшим решением. Не принимайте решения исходя из личных причин, какими они бы ни были. Будьте готовы объяснить свое решение. Если вы в команде с трудным человеком, не позволяйте, чтобы решение лидера было вызвано любым личным мнением. Если решение не в вашу пользу, принимайте его от всей души.
 
-Difficult people do change and improve. I've seen it with my own eyes, but it is very rare. However, everyone has transitory ups and downs.
+Трудные люди меняются и становятся лучше в общении. Я сам был свидетелем этому, но это случается редко. Как бы то ни было, у всех бывают периоды взлетов и падений.
 
-One of the challenges that every programmer but especially leaders face is keeping the difficult person fully engaged. They are more prone to duck work and resist passively than others.
+Один из самых больших вызовов, встречающихся каждому программисту, особенно лидерам, это держать трудного человека вовлеченным в общую работу. Такие люди больше склонны уклоняться от нее и пассивно сопротивляться.
 
-Next [Intermediate skills](../../2-Intermediate)
+Следующее: [Разработчик среднего уровня](../../2-Intermediate)
