@@ -1,15 +1,15 @@
-# How to Stay Motivated
+# Как сохранять мотивацию
 [//]: # (Version:1.0.0)
-It is a wonderful and surprising fact that programmers are highly motivated by the desire to create artifacts that are beautiful, useful or nifty. This desire is not unique to programmers nor universal but it is so strong and common among programmers that it separates them from others in other roles.
+Замечателен и удивителен тот факт, что программисты высоко мотивированы желанием создавать прекрасное, полезное и удобное. Это желание не уникально для программистов и не универсально, но оно настолько распространено именно среди них, что это отделяет эту профессию от остальных.
 
-This has practical and important consequences. If programmers are asked to do something that is not beautiful, useful or nifty, they will have low morale. There's a lot of money to be made doing ugly, stupid, and boring stuff; but in the end, fun will make the most money for the company.
+У этого есть практические и важные последствия. Если программисты вынуждены делать что-то, что не является прекрасным, полезным или удобным, они начинают терять мотивацию. В создание уродливых, глупых и скучных вещей вкладывается много денег, но в конечном счете именно радость создания приносит наибольший доход компании.
 
-Obviously, there are entire industries organized around motivational techniques, some of which apply here. The things that are specific to programming that I can identify are:
+Очевидно, существуют целые индустрии вокруг мотивационных техник, некоторые из которых применимы и для программистов. Среди таких я могу выделить:
 
-- Use the best language for the job.
-- Look for opportunities to apply new techniques, languages and technologies.
-- Try to either learn or teach something, no matter how small, in each project.
+- Использование наиболее подходящего языка программирования для конкретной задачи
+- Поиск возможностей применить новые технологии, языки программирования и техники
+- Попытка либо научить кого-то, либо научиться самому в каждом проекте, как был мал он ни был
 
-Finally, if possible, measure the impact of your work in terms of something that will be personally motivating. For example, when fixing bugs, counting the number of bugs that I have fixed is not at all motivational to me, because it is independent of the number that may still exist, and it also affects the total value I'm adding to my company's customers in only the smallest possible way. Relating each bug to a happy customer, however, *is* personally motivating to me.
+Наконец, если возможно, старайтесь измерять свой вклад в работу в том, что для вас персонально имеет значение. Например, когда я работаю над багами, общее число уже исправденных мною багов мне совершенно неинтересно, ведь оно не зависит от общего числа багов, которые все еще возможно существуют. Кроме того, это число отражает мой вклад в самом малом из всех возможных ракурсов. Но соотносить каждый исправленный баг со счастливым клиентом для меня, наоборот, очень ценно, и служит мотивацией в работе.
 
-Next [How to be Widely Trusted](02-How-to-be-Widely-Trusted.md)
+Следующее: [Как заслужить доверие](02-How-to-be-Widely-Trusted.md)

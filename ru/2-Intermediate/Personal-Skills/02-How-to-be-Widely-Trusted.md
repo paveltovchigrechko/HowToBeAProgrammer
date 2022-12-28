@@ -1,7 +1,7 @@
-# How to be Widely Trusted
+# Как заслужить доверие
 [//]: # (Version:1.0.0)
-To be trusted you must be trustworthy. You must also be visible. If no one knows about you, no trust will be invested in you. With those close to you, such as your teammates, this should not be an issue. You establish trust by being responsive and informative to those outside your department or team. Occasionally, someone will abuse this trust and ask for unreasonable favours. Don't be afraid of this, just explain what you would have to give up doing to perform the favour.
+Чтобы вам доверяли, вы должны заслуживать доверие. Вы также должны быть прозрачны. Если никто не знает вас толком, то никто до конца вам не поверит. С теми, кто близок к вам, например, с вашими коллегами по команде, такой проблемы не будет. Заслужить доверие за пределами своего отдела или команды можно будучи отзывчивым и информативным. Иногда кто-гибудь попробует злоупотребить этим доверием и попросит о необоснованных уступках. Не бойтесь этого, просто объясните, чем вам придется пожертвовать, чтобы выполнить просьбу.
 
-Don't pretend to know something that you don't. With people that are not teammates, you may have to make a clear distinction between 'not knowing right off the top of my head' and 'not being able to figure it out, ever.'
+Не притворяйтесь, что знаете то, что вы на самом деле не знаете. С людьми, которые не являются частью вашей команды, вам придется научиться отделять "не могу ответить на это сходу" и "не могу этого знать в принципе".
 
-Next [How to Tradeoff Time vs. Space](03-How-to-Tradeoff-Time-vs-Space.md)
+Следующее: [Как балансировать процессорное время и память](03-How-to-Tradeoff-Time-vs-Space.md)

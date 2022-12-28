@@ -1,4 +1,4 @@
-# How to Stress Test
+# Как проводить стресс-тестирование
 [//]: # (Version:1.0.0)
 Stress testing is fun. At first it appears that the purpose of stress testing is to find out if the system works under a load. In reality, it is common that the system does work under a load but fails to work in some way when the load is heavy enough. I call this *hitting the wall* or *bonking*<sup>[1]</sup>. There may be some exceptions, but there is almost always a ‘wall’. The purpose of stress testing is to figure out where the wall is, and then figure out how to move the wall further out.
 
