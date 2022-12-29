@@ -1,13 +1,13 @@
-# How to Learn New Skills
+# Как осваивать новые навыки
 [//]: # (Version:1.0.0)
-Learning new skills, especially non-technical ones, is the greatest fun of all. Most companies would have better morale if they understood how much this motivates programmers.
+Учить новое, особенно что-то нетехническое, это величайшее удовольствие из всех. Большинтсво компаний имели бы гораздо более высокую мораль в коллективе, если бы они понимали, как учеба мотивирует программистов.
 
-Humans learn by doing. Book-reading and class-taking are useful. But could you have any respect for a programmer who had never written a program? To learn any skill, you have to put yourself in a forgiving position where you can exercise that skill. When learning a new programming language, try to do a small project in it before you have to do a large project. When learning to manage a software project, try to manage a small one first.
+Люди учатся на практике. Чтение книг и курсы полезны, но сможете ли вы уважать программиста, который никогда не писал программы? Чтобы чему-нибудь научиться, вы должны поставить себя в положение, когда вы можете применять этот навык. Изучая новый язык программирования, попытайтесь выполнить на нем маленький проект перед тем, как вам придется использовать этот язык в большом проекте. Осваивая управление проектом по разработке программного обеспечения, сначала попробуйте управлять небольшим проектом.
 
-A good mentor is no replacement for doing things yourself, but is a lot better than a book. What can you offer a potential mentor in exchange for their knowledge? At a minimum, you should offer to study hard so their time won't be wasted.
+Хороший учитель не заменит практику, но гораздо лучше книги. Что вы можете предложить потенциальному учителю в обмен на его знания? Как минимум, вы можете пообещать усердно учиться, так что время этого человека не будет потрачено впустую.
 
-Try to get your boss to let you have formal training, but understand that it is often not much better than the same amount of time spent simply playing with the new skill you want to learn. It is, however, easier to ask for training than playtime in our imperfect world, even though a lot of formal training is just sleeping through lectures waiting for the dinner party.
+Постарайтесь уговорить своего босса оплатить вам формальное обучение, но помните, что чаще всего гораздо полезнее потратить то же время на игру с тем навыокм, который вы хотите освоить. Однако, в нашем несовершенном мире легче попросить об обучение, чем о времени на вольную игру, хоть множество обучений сводятся к сну на лекциях в ожидании обеда. 
 
-If you lead people, understand how they learn and assist them by assigning them projects that are the right size and that exercise skills they are interested in. Don't forget that the most important skills for a programmer are not the technical ones. Give your people a chance to play and practice courage, honesty, and communication.
+Если вы руководитель, постарайтесь понять, как учатся ваши подчиненные и помогите им, назначая им такие проекты и задания, которые им по плечу и одновременно позволяют им развить навыки, в которых они заинтересованы. Не забывайте, что самые важные навыки программиста вовсе не технические. Дайте своей команде время экспериментировать и практиковаться в смелости, честности и взаимодействии.
 
-Next [Learn to Type](07-Learn-to-Type.md)
+Следующее: [Научитесь печатать вслепую](07-Learn-to-Type.md)

@@ -1,7 +1,7 @@
-# How to Do Integration Testing
+# Как выполнять интеграционное тестирование
 [//]: # (Version:1.0.0)
-Integration testing is the testing of the integration of various components that have been unit tested. Integration is expensive and it comes out in the testing. You must include time for this in your estimates and your schedule.
+Интеграционное тестирование это совместное тестирование отдельных компонентов, которые прошли до этого юнит-тестирование. Интеграция дорого обходится, и это выясняется при тестировании. Вы должны включать время на интеграционное тестирование в свои оценки затрат и в расписание.
 
-Ideally you should organize a project so that there is not a phase at the end where integration must explicitly take place. It is far better to gradually integrate things as they are completed over the course of the project. If it is unavoidable estimate it carefully.
+В идеале вы должны организовать проект таким образом, чтобы в конце не было этапа, где явным образом должна происходить интеграция. Гораздо лучше постепенно интегрировать компоненты по мере их завершения в ходе проекта. Если это неизбежно, тщательно оцените временные затраты на такой этап.
 
-Next [Communication Languages](09-Communication-Languages.md)
+Следующее: [Communication Languages](09-Communication-Languages.md)
