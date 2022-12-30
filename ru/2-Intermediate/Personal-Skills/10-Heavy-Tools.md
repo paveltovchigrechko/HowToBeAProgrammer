@@ -1,14 +1,14 @@
-# Heavy Tools
+# Стандартные технологии
  [//]: # (Version:1.0.0)
-As our technological culture progresses, software technology moves from inconceivable, to research, to new products, to standardized products, to widely available and inexpensive products. These heavy tools can pull great loads, but can be intimidating and require a large investment in understanding. The intermediate programmer has to know how to manage them and when they should be used or considered.
+По мере того, как развиваются технологии, разработка программного обеспечения переходит к использованию стандартизированных широко распространенных и незатратных продуктов. Это технологии могут взять на себя большую нагрузку в разработке программного обеспечения, но одновременно могут показаться пугающе непонятными и требовать много времени на освоение. Программист среднего уровня должен знать, как управлять этими технологиями и когда следует их использовать.
 
-To my mind right now some of the best heavy tools are:
+На мой взгляд некоторыми примерами таких технологий являются:
 
-- Relational Databases,
-- Full-text Search Engines,
-- Math libraries,
-- OpenGL,
-- XML parsers, and
-- Spreadsheets.
+- Реляционные базы данных
+- Полнотекстовые поисковые системы
+- Математические бибилиотеки
+- OpenGL
+- XML-парсеры
+- Элеткронные таблицы
 
-Next [How to analyze data](11-How-to-analyze-data.md)
+Следующее: [Как анализировать данные](11-How-to-analyze-data.md)
