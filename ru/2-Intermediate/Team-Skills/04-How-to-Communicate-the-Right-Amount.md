@@ -1,7 +1,7 @@
-# How to Communicate the Right Amount
+# Как правильно общаться
 [//]: # (Version:1.0.0)
-Carefully consider the cost of a meeting; it costs *its duration multiplied by the number of participants*. Meetings are sometimes necessary, but smaller is usually better. The quality of communication in small meetings is better, and less time overall is wasted. If any one person is bored at a meeting take this as a sign that the meeting should be smaller.
+Тщательно соизмеряйте стоимость совещания. Оно равно *его длительности, умноженной на числу участников*. Иногда совещания необходимы, но небольшие совещания лучше. Качество общения на небольших совещаниях лучше, и на них уходит меньше времени. Если на совещании кто-нибудь скучает, то это знак, что следующее собрание должно быть меньше.
 
-Everything possible should be done to encourage informal communication. More useful work is done during lunches with colleagues than during any other time. It is a shame that more companies do not recognize nor support this fact.
-
-Next [How to Disagree Honestly and Get Away with It](05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)
+Необходимо следует все возможное, чтобы поощрять неформальное общение. Во время обеда с коллегами делается больше полезной работы, чем в любое другое время. Жаль, что многие компании не признают и не поддерживают этот факт.
+ 
+Следующее: [Как выражать несогласие](05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)

@@ -1,9 +1,9 @@
-# How to Manage Consultants
+# Как руководить консультантами
 [//]: # (Version:1.0.0)
-Use consultants, but don't rely on them. They are wonderful people and deserve a great deal of respect. Since they get to see a lot of different projects, they often know more about specific technologies and even programming techniques than you will. The best way to use them is as educators in-house that can teach by example.
+Используйте консультантов, но не полагайтесь на них. Эти замечательные людии заслуживают всяческого уважения. Поскольку они наблюдали множество проектов, они зачастю знают больше о специфических технологиях или даже техниках программирования, чем вы. Лучший способ использовать их как штатных преподавателей, которые могут научить на собственном примере.
 
-However, they usually cannot become part of the team in the same sense that regular employees are, if only because you may not have enough time to learn their strengths and weaknesses. Their financial commitment is much lower. They can move more easily. They may have less to gain if the company does well. Some will be good, some will be average, and some will be bad, but hopefully your selection of consultants will not be as careful as your selection of employees, so you will get more bad ones.
+Однако, обычно консультанты не могут стать частью команды в том смысле, что и обычные сотрудники, хотя бы потому, что у вас может не хватить времени изучить их сильные и слабые стороны. Их финансовые обязательства гораздо ниже. Они могут легко уйти. Они меньше выигрывают, если компания в целом процветает. Некоторые из них будут хороши, некоторые средними, некоторые плохими консультантами. Поскольку ваш выбор консультантов будет не так тщателен, как подбор сотрудников, чаще вы будете встречать плохих.
 
-If consultants are going to write code, you must review it carefully as you go along. You cannot get to the end of the a project with the risk of a large block of code that has not been reviewed. This is true of all team members, really, but you will usually have more knowledge of the team members closer to you.
+Если консультанты пишут код, то вы должны тщательно ревьюить его по мере работы. Нельзя доводить проект до конца, рискуя оставить большой непроверенный блок кода. Это относится ко всем членам команды, но обычно вы их знаете лучше, чем консультантов.
 
-Next [How to Communicate the Right Amount](04-How-to-Communicate-the-Right-Amount.md)
+Следующее: [Как правильно общаться](04-How-to-Communicate-the-Right-Amount.md)
