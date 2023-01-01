@@ -1,15 +1,15 @@
-# How to Know When to Apply Fancy Computer Science
+# Как понять, когда применять высокие технологии
 [//]: # (Version:1.0.0)
-There is a body of knowledge about algorithms, data structures, mathematics, and other gee-whiz stuff that most programmers know about but rarely use. In practice, this wonderful stuff is too complicated and generally unnecessary. There is no point in improving an algorithm when most of your time is spent making inefficient database calls, for instance. An unfortunate amount of programming consists of getting systems to talk to each other and using very simple data structures to build a nice user interface.
+Существует свод знаний об алгоритмах, структурах данных, математике и других вещах, о которых программисты знают, но довольно редко используют в работе. На практике эти замкчательные вещи слишком сложны и, как правило, ненужны. Нет смысла улучшать алгоритм, когда большая часть времени тратится на неэффективный запрос к базе данных. Досадная часть программирования состоит в том, чтобы заставить системы общаться друг с другом и использовать очень простые структуры данных для построения красивого пользовательского интерфейса. 
 
-When is high technology the appropriate technology? When should you crack a book to get something other than a run-of-the-mill algorithm? It is sometimes useful to do this but it should be evaluated carefully.
+Когда следует применять высокие технологии? Когда следует открывать серьезные книги, чтобы найти альтернативу обычному алгоритму? Иногда полезно это делать, но такие технологии следует тщательно оценивать.
 
-The three most important considerations for the potential computer science technique are:
+Три самых важных соображения о потенциальном использовании какой-либо техники это:
 
-- Is it well encapsulated so that the risk to other systems is low and the overall increase in complexity and maintenance cost is low?
-- Is the benefit startling (for example, a factor of two in a mature system or a factor of ten in a new system)?
-- Will you be able to test and evaluate it effectively?
+- Хорошо ли эта техники инкапсулирована? Так что риск для остальных систем невысок, как и общий прирост сложности и затраты на поддержку
+- Является ли преимущество использования этой техники значительным (например, в два раза для старой и хорошо разработанной системы или в десять раз для новой)?
+- Сможете ли вы проверить и оценить эту технику эффективно?
 
-If a well-isolated algorithm that uses a slightly fancy algorithm can decrease hardware cost or increase performance by a factor of two across an entire system, then it would be criminal not to consider it. One of the keys to arguing for such an approach is to show that the risk is really quite low, since the proposed technology has probably been well studied, the only issue is the risk of integration. Here a programmer's experience and judgement can truly synergize with the fancy technology to make integration easy.
+Если хорошо изолированный алгоритм, использующий слегка более сложную логику, может уменьшить нагрузку на аппаратную часть или увеличить производительность в два раза, то будет преступлением не использовать его. Один из факторов поддержать такой подход - это показать, насколько низок риск использования, так как предлагаемая технология хорошо изучена. Остается только риск интеграции. Здесь опыт и экспертиза программиста в сочетании с самой технологией должны сделать интеграцию достаточно простой.  
 
-Next [How to Talk to Non-Engineers](08-How-to-Talk-to-Non-Engineers.md)
+Следующее: [Как разговаривать с неинженерами](08-How-to-Talk-to-Non-Engineers.md)

@@ -1,18 +1,19 @@
-# How to Decide if Software is Too Immature
+# Как оценивать стороннее программное обеспечение
 [//]: # (Version:1.0.0)
-Using software other people wrote is one of the most effective ways to quickly build a solid system. It should not be discouraged, but the risks associated with it must be examined. One of the biggest risks is the period of bugginess and near inoperability that is often associated with software before it matures, through usage, into a usable product. Before you consider integrating with a software system, whether created in house or by a third party, it is very important to consider if it is really mature enough to be used. Here are ten questions you should ask yourself about it:
+Использование стороннего программного обеспечения это один из самых эффективных способов быстро построить серьезную систему. От него не следует отказываться, но следует изучить связанные с ним риски. Один из самых больших рисков это период множества багов и почти неработоспособности, случающийся перед тем, как программное обеспечение будет доработано и станет устойчивым продуктом. Прежде чем рассматривать возможность интеграции с программой, разработанной вашей или сторонней компанией, очень важно оценить, насколько она устойчива для использования. Вот десять вопросов, которые вы должны задать себе по этому поводу:
 
-1. Is it vapour? (Promises are very immature).
-2. Is there an accessible body of lore about the software?
-3. Are you the first user?
-4. Is there a strong incentive for continuation?
-5. Has it had a maintenance effort?
-6. Will it survive defection of the current maintainers?
-7. Is there a seasoned alternative at least half as good?
-8. Is it known to your tribe or company?
-9. Is it desirable to your tribe or company?
-10. Can you hire people to work on it even if it is bad?
+1. Это выпущенный продукт? (Обещаниям не стоит верить)
+2. Существует ли доступный свод знаний об этом программном обеспечении?
+3. Вы первый пользователь?
+4. Есть ли у разработчиков программы сильный стимул для ее продолжения и развития?
+5. Есть ли техническая поддержка?
+6. Переживет ли проект уход нынешних разработчиков?
+7. Есть ли хотя бы наполовину соответствующая проверенная альтернатива?
+8. Известно ли это программное обеспечение вашей команде или компании?
+9. Хочет ли ваша команда или компания работать с ним?
+10. Сможете ли вы нанять людей для работы с ним, даже если это плохое программное обеспечение?
 
-A little consideration of these criteria demonstrates the great value of well-established free software and open-source software in reducing risk to the entrepreneur.
+Небольшое размышление над этими вопросами демонстрирует огромную ценность хорошо зарекомендовавшего себя свободного программного обеспечения и программного обеспечения с открытым кодом в снижении рисков. 
 
-Next [How to Make a Buy vs. Build Decision](04-How-to-Make-a-Buy-vs-Build-Decision.md)
+
+Следующее: [Как решать: покупать программу или писать свою](04-How-to-Make-a-Buy-vs-Build-Decision.md)

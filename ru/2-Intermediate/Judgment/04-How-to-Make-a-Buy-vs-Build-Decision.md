@@ -1,16 +1,16 @@
-# How to Make a Buy vs. Build Decision
+# Как решать: покупать программу или писать свою
 [//]: # (Version:1.0.0)
-An entrepreneurial company or project that is trying to accomplish something with software has to constantly make so-called *buy vs. build* decisions. This turn of phrase is unfortunate in two ways: it seems to ignore open-source and free software which is not necessarily *bought*. Even more importantly, it should perhaps be called an *obtain and integrate vs. build here and integrate* decision because the cost of integration must be considered. This requires a great combination of business, management, and engineering savvy.
+Предпринимательская компания или проект, которые пытаются добиться чего-то с помощью программного отбеспечения, постоянно вынуждены принимать решения типа *покупать программу или писать свою*. Это выражение неудачно по двум причинам. Оно как будто игнорирует существование свободного и открытого программного обеспечения, которое необязательно покупать. И, что более важно, его стоит переформулировать в *приобрести и интегрировать или написать свое и интегрировать*, потому что затраты на интеграцию обязательны надо учесть. Такие решения требуют редкого сочетания деловой, управленческой и инженерной смекалки. 
 
-- How well do your needs match those for which it was designed?
-- What portion of what you buy will you need?
-- What is the cost of evaluating the integration?
-- What is the cost of integration?
-- Will buying increase or decrease long term maintenance costs?
-- Will building it put you in a business position you don't want to be in?
+- Насколько полно ваши требования совпадают с требованиями под которые было создано программное обеспечение, рассматривающееся к покупке?
+- Какая часть программы, которую вы можете купить, действительно вам нужна?
+- Каковы затраты на оценку интеграции?
+- Каковы затраты на интеграцию?
+- Приобретение этой программы увеличит или уменьшит затраты на долгосрочную поддержку?
+- Если вы напишите свое программное обеспечение под свои цели, поставить ли это вашу компанию в нежелательную бизнес-ситуацию?
 
-You should think twice before building something that is big enough to serve as the basis for an entire other business. Such ideas are often proposed by bright and optimistic people that will have a lot to contribute to your team. If their idea is compelling, you may wish to change your business plan; but do not invest in a solution bigger than your own business without conscious thought.
+Следует как минимум дважды хорошо подумать, прежде чем начинать создавать программу, достаточно большую, чтобы стать основой чьего-то бизнеса. Подобные идеи часто предлагают яркие и оптимистичные люди, которые могут внести большой вклад в вашу команду. Если их идея окажется убедительной, возможно вы захотите изменить свой бизнес-план. Но не инвестируйте необдуманно в решение, которое больше, чем ваш собственный бизнес.
 
-After considering these questions, you should perhaps prepare two draft project plans, one for building and one for buying. This will force you to consider the integration costs. You should also consider the long term maintenance costs of both solutions. To estimate the integration costs, you will have to do a thorough evaluation of the software before you buy it. If you can't evaluate it, you will assume an unreasonable risk in buying it and you should decide against buying that particular product. If there are several buy decisions under consideration, some energy will have to be spent evaluating each.
+Рассмотрев эти вопросы, вам стоит подготовить две черновых проектных плана, один с покупкой программного обеспечения, второй с созданием собственного. Это подтолкнет вас оценить затраты на интеграцию. Также стоит рассмотреть затраты на долгосрочную поддержку программы. Чтобы оценить затраты на интеграцию, вам придется тщательно изучить само программное обеспечение перед покупкой. Если это невозможно, то вы берете на себя неразумные риски при покупке и вам стоит отказаться от приобретения программного обеспечения в данном проекте. Если в рассмотрении несколько подобных вопросов о покупке, то придется потратить время на тщательную оценку каждого случая.
 
-Next [How to Grow Professionally](05-How-to-Grow-Professionally.md)
+Следующее: [Как расти профессионально](05-How-to-Grow-Professionally.md)

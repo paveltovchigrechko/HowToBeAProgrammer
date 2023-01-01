@@ -1,13 +1,13 @@
-# How to Manage Software System Dependence
+# Как управлять зависимостями
 [//]: # (Version:1.0.0)
-Modern software systems tend to depend on a large number of components that may not be directly under your control. This increases productivity through synergy and reuse. However, each component brings with it some problems:
+Современное программное обеспечение имеет тенденцию зависеть от множества компонентов, которые могут не быть под вашим непосредственным контролем. Это повышает продуктивность за счет синергии и повторного использования. Однако, каждый такой компонент приносит с собой некоторые проблемы:
 
-- How will you fix bugs in the component?
-- Does the component restrict you to particular hardware or software systems?
-- What will you do if the component fails completely?
+- Как вы будете исправлять баги в компоненте?
+- Ограничивает ли компонент вас использовать определенное аппаратное обеспечение или систему?
+- Что вы будете делать, если компонент полностью откажет?
 
-It is always best to encapsulate the component in some way so that it is isolated and so that it can be swapped out. If the component proves to be completely unworkable, you may be able to get a different one, but you may have to write your own. Encapsulation is not portability, but it makes porting easier, which is almost as good.
+Всегда лучше инкапсулировать компонент таким образом, чтобы он был отделен, и его можно было легко заменить. Если компонент покажет свою неработоспособность, вы замените его на другой или напишите свой собственный. Инкапсуляция не улучшает переносимость, но делает переписывание кода проще, что почти также здорово.
 
-Having the source code for a component decreases the risk by a factor of four. With source code, you can evaluate it easier, debug it easier, find workarounds easier, and make fixes easier. If you make fixes, you should give them to the owner of the component and get the fixes incorporated into an official release; otherwise you will uncomfortably have to maintain an unofficial version.
+Если у вас есть исходный код компонента, то риски снижаются вчетверо. С исходным кодом вы можете быстрее оценивать компонент, отлаживать, находить новые решения и вносить исправления. Если вы вносите исправления, то о них следует сообщить владельцу компонента, чтобы он включил их в официальный релиз. В противном случае, вам придется самостоятельно поддерживать неофициальную версию компонента.
 
-Next [How to Decide if Software is Too Immature](03-How-to-Decide-if-Software-is-Too-Immature.md)
+Следующее: [Как оценивать стороннее программное обеспечение](03-How-to-Decide-if-Software-is-Too-Immature.md)

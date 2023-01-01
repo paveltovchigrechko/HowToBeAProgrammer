@@ -1,11 +1,11 @@
-# How to Grow Professionally
+# Как расти профессионально
 [//]: # (Version:1.0.0)
-Assume responsibility in excess of your authority. Play the role that you desire. Express appreciation for people's contribution to the success of the larger organization, as well as things as that help you personally.
+Возьмите на себя роль, превышающую вашу ответственность. Выполняйте роль, которую вы хотите. Выражайте признательность и благодарность людяи за их вклад в успех организации и за персональнуб помощь вам.
 
-If you want to become a team leader, instigate the formation of consensus. If you want to become a manager, take responsibility for the schedule. You can usually do this comfortably while working with a leader or a manager, since this frees them up to take greater responsibility. If that is too much to try, do it a little at a time.
+Если вы хотите стать лидером команды, способствуйте формированию общего согласия в работе. Если вы хотите стать менеджером, возьмите ответственность за расписание. Обычно вы спокойно можете сделать это, работая с лидером или менеджером, так как это снимет с них большую нагрузку. Если это слишком сложная задача для начала, возьмите на себя обязанности поменьше.
 
-Evaluate yourself. If you want to become a better programmer, ask someone you admire how you can become like them. You can also ask your boss, who will know less but have a greater impact on your career.
+Оценивайте себя. Если вы хотите стать лучше как программист, спросите программиста, которого вы уважаете, как стать похожим на него. Также вы можете спросить своего босса, который меньше разбирается в этом, но зато имеет большее влияние на вашу карьеру.
 
-Plan ways to learn new skills, both the trivial technical kind, like learning a new software system, and the hard social kind, like writing well, by integrating them into your work.
+Ищите пути освоить новые навыки, как тривиальные технические вроде освоения новой программной системы, так и трудные социальные, вроде умения писать хорошо. Старайтесь использовать эти навыки в работе.
 
-Next [How to Evaluate Interviewees](06-How-to-Evaluate-Interviewees.md)
+Следующее: [Как проводить собеседования](06-How-to-Evaluate-Interviewees.md)
