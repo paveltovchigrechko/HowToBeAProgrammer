@@ -1,9 +1,9 @@
-# How to Tell the Hard From the Impossible
+# Как отличить сложное от невозможного
 [//]: # (Version:1.0.1)
-It is our job to do the hard and discern the impossible. From the point of view of most working programmers, something is impossible if either it cannot be grown from a simple system or it cannot be estimated. By this definition, what is called research is impossible. A large volume of mere work is hard, but not necessarily impossible.
+Ваша работа заключается в том, чтобы делать сложное и отличать невозможное. С точки зрения большиства программистов невозможное это то, что невозможно получить с помощью одной системы или то, что невозможно оценить. По этому определению научное исследование невозможно выполнить. Большой объем работы это сложно, не необязательно невозможно.
 
-The distinction is not facetious, because you may very well be asked to do what is practically impossible, either from a scientific point of view or a software engineering one. It then becomes your job to help the entrepreneur find a reasonable solution, which is merely hard,  and gets most of what they wanted. A solution is merely hard when it can be confidently scheduled and the risks are understood.
+Это нешуточное различие, потому что часто вас будут просить сделать то, что невозможно практически, будь то с научной точки зрения или с точки зрения разработки программного обеспечения. Тогда ваша задача помочь найти разумное решение, которое будет просто сложным и позволит реализовать большую часть запросов. Решение является сложным, если его можно с уверенностью распланировать, и понятны связанные с ним риски.
 
-It is impossible to satisfy a vague requirement, such as ‘Build a system that will compute the most attractive hair style and colour for any person.’ If the requirement can be made more crisp, it will often become merely hard, such as ‘Build a system to compute an attractive hair style and colour for a person, allow them to preview it and make changes, and have the customer satisfaction based on the original styling be so great that we make a lot of money.’ If there is no crisp definition of success, you will not succeed.
+Невозможно выполнить туманные требования вроде "Построить систему, которая будет вычислять самую привлекательную прическу и цвет волос для каждого клиента". Если требование можно сделать более четким, оно зачастую станет сложнее, например, "Построить систему, которая будет вычислять самую привлекательную прическу и цвет для клиента, позволять им предварительно просматривать решение, изменять его и настолько хорошо удовлетворять клиента, что мы будет получать от этого кучу денег". Если нет четкого определения успеха, то вы не добьетесь его.
 
-Next [How to Utilize Embedded Languages](02-How-to-Utilize-Embedded-Languages.md)
+Следующее: [Как использовать встроенные языки](02-How-to-Utilize-Embedded-Languages.md)
