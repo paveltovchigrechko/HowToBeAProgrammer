@@ -1,9 +1,9 @@
-# How to Divide Problems Up
+# Как разделять задачи
 
-It's fun to take a software project and divide it up into tasks that will be performed by individuals. This should be done early. Sometimes managers like to think that an estimate can be made without consideration of the individuals that will perform the work. This is impossible since the productivity of individuals varies so widely. Who has particular knowledge about a component also constantly changes and can have an order of magnitude effect on performance.
+Брать проект по разработке программного обеспечения и делить его на индивидуальные задачи весело. Это стоит делать на ранних этапах. Иногда менеджеры склонны думать, что оценку затрат можно сделать без учета людей, которые будут выполнять задачи. Но это невозможно, так как продуктивность людей очень различается. Человек, обладающий конкретными знаниями о компоненте системы, также постоянно меняется, и это влияет на производительность.
 
-Just as a composer considers the timbre of the instrument that will play a part or the coach of an athletic team considers the strengths of each player, the experienced team leader will not usually be able to separate the division of the project into tasks from the team members to which they will be assigned. This is part of the reason that a high-performing team should not be broken up.
+Подобно композитору, который учитывает тембр инструмента, играющего партию или тренеру спортивной команды, держащему в уме сильные стороны каждого игрока, опытный руководитель не сможет отделить разделение проекта на задачи от членов команды, которые будут заниматься этими задачами. Это одна из причин, по которой высокоэффективную команду не стоит разбивать на части.
 
-There is a certain danger in this given that people will become bored as they build upon their strengths and never improve their weaknesses or learn new skills. However, specialization is a very useful productivity tool when not overused.
+В этом есть определенная опасность, что люди будут скучать, так как такие команды основаны на сильных сторонах каждого. В этом случае члены команды не улучшают свои слабые стороны и не развивают новые навыки. Однако, специализация очень эффективна для производительности, если ею не злоупотреблять.
 
-Next [How to Handle Boring Tasks](05-How-to-Handle-Boring-Tasks.md)
+Следующее: [Как распределять скучные задания](05-How-to-Handle-Boring-Tasks.md)

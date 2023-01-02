@@ -1,5 +1,5 @@
-# How to Choose What to Work On
+# Как выбрать, над чем работать
 
-You balance your personal needs against the needs of the team in choosing what aspect of a project to work on. You should do what you are best at, but try to find a way to stretch yourself not by taking on more work but by exercising a new skill. Leadership and communication skills are more important than technical skills. If you are very strong, take on the hardest or riskiest task, and do it as early as possible in the project to decrease risk.
+Вы балансируете свои собственные потребности с потребностями команды через выбор того аспекта проекта, над которым вы работаете. Вам  следует делать то, что у вас получается лучше всего, но ищите способы занять себя не увеличением работы, а применением новых навыков. Лидерство и навыки общения более важны, чем технические навыки. Если вы очень сильный программист, берите на себя самые сложные или рискованные задачи и выполняйте их как можно раньше, чтобы снизить риски.
 
-Next [How to Get the Most From Your Team-mates](03-How-to-Get-the-Most-From-Your-Teammates.md)
+Следующее: [Как получить наибольшую отдачу от коллег](03-How-to-Get-the-Most-From-Your-Teammates.md)

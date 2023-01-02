@@ -1,15 +1,15 @@
-# How to Get the Most From Your Team-mates
+# Как получить наибольшую отдачу от коллег
 
-To get the most from your team-mates, develop a good team spirit and try to keep every individual both personally challenged and personally engaged.
+Чтобы получить наибольшую отдачу от коллег, развивайте дружеский командный дух и старайтесь, чтобы каждый был лично востребован и вовлечен.
 
-To develop team spirit, corny stuff like logoized clothing and parties are good, but not as good as personal respect. If everyone respects everyone else, nobody will want to let anybody down. Team spirit is created when people make sacrifices for the team and think in terms of the good of the team before their own personal good. As a leader, you can't ask for more than you give yourself in this respect.
+В развитии командного духа помогают такие банальные штуки как одежда с лого компании и корпоративы, но нет ничего лучше личного взаимоуважения. Если все уважают друг друга, то никто никого не захочет подводить. Командный дух появляется, когда люди жертвуют ради команды и думают в рамках блага для всей команды, а не о личной выгоде. Как лидер, вы не можете требовать большего, чем лично вы делаете в этом отношении.
 
-One of the keys to team leadership is to facilitate consensus so that everyone has buy in. This occasionally means allowing your team-mates to be wrong. That is, if it does not harm the project too much, you must let some of your team do things their own way, based on consensus, even if you believe with great confidence it is the wrong thing to do. When this happens, don't agree, simply disagree openly and accept the consensus. Don't sound hurt, or like you're being forced into it, simply state that you disagree but think the consensus of the team is more important. This will often cause them to backtrack. Don't insist that they go through with their initial plan if they do backtrack.
+Одним из ключевых моментов в руководстве команды является достижение консенсуса, чтобы все были вовлечены в решение. Иногда это означает позволить своей команде ошибиться. То есть, если это не принесет большого ущерба проекту, вы должны позволить части своей команды поступать по-своему, основываясь на консенсусе, даже вы абсолютно уверены, что это неверное решение. В этом случае не надо соглашаться с коллегами, просто открыто выразите свое несогласие и примите общее решение. Не говорите обиженно или как будто вы вынуждают к решению, просто обозначьте, что вы несогласны, но для вас решение команды гораздо важнее. Часто это заставит команду изменить свое решение. В этом случае, не заставляйте ее следовать первоначальному плану.
 
-If there is an individual who will not consent after you have discussed the issues from all appropriate sides, simply assert that you have to make a decision and that is what your decision is. If there is a way to judge if your decision will be wrong or if it is later shown to be wrong, switch as quickly as you can and recognize the persons who were right.
+Если найдется человек, который не согласится с вами после того, как вы рассмотрите проблему со всех сторон, просто скажите, что вам надо принять решение, и это ваше решение. Если есть возможность проверить, было ли ваше решение ошибочным или позднее окажется, что оно ошибочно, измените его, как только сможете, и признайте правоту тех, кто был с вами несогласен.
 
-Ask your team, both as a group and individually, what they think would create team spirit and make for an effective team.
+Спросите свою команду как в группе, так и индивидуально, что по их мнению создает командный дух и делает команду эффективной.
 
-Praise frequently rather than lavishly. Especially praise those who disagree with you when they are praiseworthy. Praise in public and criticize in private; with one exception: sometimes growth or the correction of a fault can't be praised without drawing embarrassing attention to the original fault, so that growth should be praised in private.
+Хвалите часто, но не много. Особенно хвалите тех, кто не согласен с вами, если в итоге они заслуживают похвалы. Хвалите публично и критикуйте наедине. Одно исключение: иногда прогресс или исправление ошибки нельзя отметить без упоминания виновника ошибки, в этом случае хвалите наедине.
 
-Next [How to Divide Problems Up](04-How-to-Divide-Problems-Up.md)
+Следующее: [Как разделять задачи](04-How-to-Divide-Problems-Up.md)

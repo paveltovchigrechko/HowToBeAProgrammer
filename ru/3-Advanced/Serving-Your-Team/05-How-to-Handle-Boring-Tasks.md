@@ -1,7 +1,7 @@
-# How to Handle Boring Tasks
+# Как распределять скучные задания
 
-Sometimes it is not possible to avoid boring tasks that are critical to the success of the company or the project. These tasks can really hurt the morale of those that have to do them. The best technique for dealing with this is to invoke or promote Larry Wall's programmer's virtue of Laziness. Try to find some way to get the computer to do the task for you or to help your team-mates do this. Working for a week on a program to do a task that will take a week to do by hand has the great advantage of being more educational and sometimes more repeatable.
+Иногда невозможно избежать скучных задач, которые критичны для успеха компании или проекта. Такие задания могут сильно подорвать дух тех, кому придется заниматься ими. Лучше всего постраться найти способ заставить компьютер выполнять эти задачи вместо ваших коллаг, либо помочь им. Работа с течение недели над программой, выполняющей задачу, которая вручную займет ту же неделю, имеет то огромное преимущество, что она учит большему и иногда более повторяема. 
 
-If all else fails, apologize to those who have to do the boring task, but under no circumstances allow them to do it alone. At a minimum assign a team of two to do the work and promote healthy teamwork to get the task done.
+Если ничего из этого не сработает, извинитесь перед теми, кому придется делать скучные задачи, но ни при каких обстоятельствах не позволяйте выполнять эти задачи в одиночку. Как минимум назначьте двоих на эту работу и поощряйте командную работу в выполнении таких задач.
 
-Next [How to Gather Support for a Project](06-How-to-Gather-Support-for-a-Project.md)
+Следующее: [Как получить поддержку для проекта](06-How-to-Gather-Support-for-a-Project.md)

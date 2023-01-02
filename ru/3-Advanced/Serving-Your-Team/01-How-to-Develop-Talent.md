@@ -1,23 +1,23 @@
 # Как развивать таланты
 
-Nietschze exaggerated when he said [Stronger]:
+Ницше преувеличил, когда сказал [Stronger]:
 
-> What does not destroy me, makes me stronger.
+> Всё, что меня не убивает, делает меня сильнее.
 
-Your greatest responsibility is to your team. You should know each of them well. You should stretch your team, but not overburden them. You should usually talk to them about the way they are being stretched. If they buy in to it, they will be well motivated. On each project, or every other project, try to stretch them in both a way that they suggest and a way that you think will be good for them. Stretch them not by giving them more work, but by giving them a new skill or better yet a new role to play on the team.
+Ваша самая главная ответственность - это ваша команда. Вы должны хорошо знать каждого из членов команды. Вы должны нагружать свою команду, но не перегружать. Следует разговаривать с членами вашей команды об их нагрузке. Если они согласны с ней, то они будут хорошо мотивированы. В каждом проекте старайтесь нагружать их таким образом, чтобы они были согласны со своей нагрузкой, и одновременно, чтобы она совпадала с вашим собственным мнением о том, что нужно членам вашей команды. Нагружайте их не объемом работы, а новым навыком или слегка иной ролью в команде.
 
-You should allow people (including yourself) to fail occasionally and should plan for some failure in your schedule. If there is never any failure, there can be no sense of adventure. If there are not occasional failures, you are not trying hard enough. When someone fails, you should be as gentle as you can with them while not treating them as though they had succeeded.
+Вам следует позволять людям (и себе тоже) иногда ошибаться. Предусматривайте эти неудачи в своем графике. Если никогда нет ошибок и неудач, то нет и чувства приключения. Если иногда нет ошибок и неудач, значит, вы недостаточно стараетесь. Когда кто-то ошибается, вам следует вести себя так вежливо, как вы можете, одновременно не относясь к человеку так, словно он преуспел.
 
-Try to get each team member to buy in and be well motivated. Ask each of them explicitly what they need to be well-motivated if they are not. You may have to leave them dissatisfied, but you should know what everybody desires.
+Постарайтесь вовлечь и увлечь каждого из членов команды. Спросите каждого из них в явном виде, что им нужно для мотивации, если они еще не мотивированы. Возможно, вы не сможете удовлетворить всех, но все же стоит узнать, кто что хочет.
 
-You can't give up on someone who is intentionally not carrying their share of the load because of low morale or dissatisfaction and just let them be slack. You must try to get them well-motivated and productive. As long as you have the patience, keep this up. When your patience is exhausted, fire them. You cannot allow someone who is intentionally working below their level to remain on the team, since it is not fair to the team.
+Нельзя мириться с тем, кто намеренно не тянет свою часть нагрузки из-за низкого морального духа или неудовлетворенности. Нельзя позволять отлынивать. Вы должны стараться привести таких людей в состояние высокой мотивации и продуктивности. Пока у вас хватает терпения, подталкивайте их в этом направлении. Когда ваше терпение иссякнет, увольняйте их. Нельзя позволять тому, кто намеренно работает ниже своего уровня, оставаться в команде. Это несправедливо по отношению к остальным.
 
-Make it clear to the strong members of your team that you think they are strong by saying so in public. Praise should be public and criticism private.
+Выскажите публично сильным членам своей команды, что вы думаете, что они сильные сотрудники. Хвалите публично и критикуйте наедине.
 
-The strong members of the team will naturally have more difficult tasks than the weak members of the team. This is perfectly natural and nobody will be bothered by it as long as everyone works hard.
+Более сильные члены вашей команды естественно будут заняты более трудными задачами, чем слабые. Это абсолютно нормально, и пока все в команде работают усердно, никто не должен заморачиваться по этому поводу.
 
-It is an odd fact that is not reflected in salaries that a good programmer is more productive than 10 bad programmers. This creates a strange situation. It will often be true that you could move faster if your weak programmers would just get out of the way. If you did this you would in fact make more progress in the short term. However, your tribe would lose some important benefits, namely the training of the weaker members, the spreading of tribal knowledge, and the ability to recover from the loss of the strong members. The strong must be gentle in this regard and consider the issue from all angles.
+Странный факт, который не отражается на зарплатах, заключается в том, что хороший программист продуктивнее 10 плохих. Это порождает странную ситуацию. Часто будет случаться, что вы будете быстрее продвигаться по проекту, если отстранить от работы всех слабых членов команды. Если бы вы так поступали бы, то действительно в краткосрочной перспективе вы добьетесь большего прогресса. Однако, ваша команда потеряет несколько важных преимуществ, а именно обучение слабых членов команды, распространение знаний и способность команды восстанавливаться при потере сильных программистов. Сильные программисты должны быть снисходительными в этом плане и стараться видеть общую картину. 
 
-You can often give the stronger team members challenging, but carefully delineated, tasks.
+Часто вы можете дать более сильным членам команды сложные, но тщательно разграниченные задачи.
 
-Next [How to Choose What to Work On](02-How-to-Choose-What-to-Work-On.md)
+Следующее: [Как выбрать, над чем работать](02-How-to-Choose-What-to-Work-On.md)
