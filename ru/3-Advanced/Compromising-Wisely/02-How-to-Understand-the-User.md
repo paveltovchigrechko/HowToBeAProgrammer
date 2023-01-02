@@ -1,17 +1,17 @@
-# How to Understand the User
+# Как понять пользователя
 [//]: # (Version:1.0.0)
-It is your duty to understand the user, and to help your boss understand the user. Because the user is not as intimately involved in the creation of your product as you are, they behave a little differently:
+Ваша обязанность - это понять пользователя и помочь это сделать вашему боссу. Поскольку пользователи непосредственно не вовлечены в разработку вашего продукта, они ведут себя слегка иначе:
 
-- The user generally makes short pronouncements.
-- The user has their own job; they will mainly think of small improvements in your product, not big improvements.
-- The user can't have a vision that represents the complete body of your product users.
+- Обычно пользователи выносят короткие суждения
+- У пользователей есть своя работа, они будут скорее думать о небольших доработках в вашем продукте, чем о больших улучшениях
+- Мнение одного пользователя не может представлять общее мнение всех пользователей вашего продукта
 
-It is your duty to give them what they really want, not what they say they want. It is however, better to propose it to them and get them to agree that your proposal is what they really want before you begin, but they may not have the vision to do this. Your confidence in your own ideas about this should vary. You must guard against both arrogance and false modesty in terms of knowing what the customer really wants. Programmers are trained to design and create. Market researchers are trained to figure out what people want. These two kinds of people, or two modes of thought in the same person, working harmoniously together give the best chance of formulating the correct vision.
+Ваша обязанность - дать пользователям не то, что они говорят, что хотят, а то, что они хотят в дествительности. Однако, лучше всего это сформулировать для ваших пользователей и получить от них ответ, что ваше предложение действительно отвечает их реальных желаниям. Хотя у пользователей может не хватит полного представления для ответа. Ваша уверенность в собственных идеях на этот счет должно варьироваться. Следует одинаково опасаться как самоуверенности, так и ложной скромности, когда речь идет о нуждах вашего пользователя. Программисты нацелены на проектирование и создание. Исследователи рынка нацелены на выявление нужд потребителей. Эти два типа людей или два типа мышления в одном человеке, гармонично работая в связке, дают наилучший шанс сформировать правильное представление.
 
-The more time you spend with users the better you will be able to understand what will really be successful. You should try to test your ideas against them as much as you can. You should eat and drink with them if you can.
+Чем больше времени вы проведете с пользователями, тем лучше вы сможете понять, что будет лучшим для них. Вам стоит проверять свои идеи на пользователях так часто, насколько это вообще возможно. Вам стоит обедать с ними, если это возможно.
 
-Guy Kawasaki [Rules] has emphasized the importance of *watching* what your users do in addition to listening to them.
+Гай Кавасаки [Rules] подчеркивает важность *наблюдения* того, чем заняты ваши пользователи, дополнительно к выслушиванию их.
 
-I believe contractors and consultants often have tremendous problems getting their clients to clarify in their own minds what they really want. If you intend to be a consultant, I suggest you choose your clients based on their clear-headedness as well as their pocketbooks.
+Я думаю, что у подрядчиков и консультантов часто возникают большие проблемы с тем, чтобы их клиенты прояснили в своем сознаннии, что они хотят в действительности. Если вы намерены быть консультантом, я бы предложил вам выбирать клиентов по четкости их мыслей и по кошельку.
 
-Next [How to Get a Promotion](03-How-to-Get-a-Promotion.md)
+Следующее: [Как получить повышение](03-How-to-Get-a-Promotion.md)

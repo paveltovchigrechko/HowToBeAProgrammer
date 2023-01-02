@@ -1,4 +1,4 @@
-# How to Develop Talent
+# Как развивать таланты
 
 Nietschze exaggerated when he said [Stronger]:
 

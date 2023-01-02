@@ -12,4 +12,4 @@
 
 Некоторые из этих преимуществ чисто психологические, но психология тоже важна. В конце концов, издержки языковой тирании перевешивают любые преимущества, которые она дает.
 
-Следующее: [Compromising Wisely - How to Fight a Schedule Pressure](../Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
+Следующее: [Нахождение компромиссов. Как справляться в давлением графика](../Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
