@@ -1,4 +1,4 @@
-# Appendix B - History
+# Приложение B - История
 [//]: # (Version:1.0.0)
 ## Move to Github
 

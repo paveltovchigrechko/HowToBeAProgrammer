@@ -1,6 +1,6 @@
-# Appendix A - Bibliography/Websiteography
+# Приложение A - Библиография/Список сайтов
 [//]: # (Version:1.0.0)
-## Books
+## Книги
 
 [Rules00] Guy Kawasaki, Michelle Moreno, and Gary Kawasaki. 2000. HarperBusiness. Rules for Revolutionaries: The Capitalist Manifesto for Creating and Marketing New Products and Services.
 
@@ -16,7 +16,7 @@
 
 [Stronger] Friedrich Nietzsche. 1889. Twilight of the Idols, "Maxims and Arrows", section 8..
 
-## Web Sites
+## Сайты
 
 [PGSite] Paul Graham. 2002. Articles on his website: [http://www.paulgraham.com/articles.html](http://www.paulgraham.com/articles.html). All of them, but especially "Beating the Averages".
 
@@ -28,4 +28,4 @@
 
 [Knife] Edsger W. Dijkstra. 1984. On a Cultural Gap. [http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD913.PDF](http://www.cs.utexas.edu/users/EWD/ewd09xx/EWD913.PDF).
 
-Next [History](6-History.md)
+Следующее: [История](6-History.md)

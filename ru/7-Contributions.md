@@ -1,4 +1,4 @@
-# Contributions
+# Участеи в проекте
 [//]: # (Version:1.0.0)
 This repository aims to be a community driven project, and your involvement will ultimately help improve the quality of this guide. 
 
