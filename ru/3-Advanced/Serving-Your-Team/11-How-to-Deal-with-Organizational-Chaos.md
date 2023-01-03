@@ -1,11 +1,11 @@
-# How to Deal with Organizational Chaos
+# Как справляться с организационным хаосом
 
-There are often brief periods of great organizational chaos, such as lay-offs, buyouts, ipos, firings, new hirings, and so on. These are unsettling to everyone, but perhaps a little less unsettling to the programmer whose personal self-esteem is founded in capacity rather than in position. Organizational chaos is a great opportunity for programmers to exercise their magic power. I've saved this for last because it is a deep tribal secret. If you are not a programmer, please stop reading now.
+Иногда случаются короткие периоды времени, когда царит организционный хаос: такие как массовые увольнения, покупка компании другой, выход на биржу, массовый наем сотрудников и так далее. Такие времена неспокойны для всех, но возможно программистам здесь проще, так как их самооценка основана на чем-то большем, чем просто должность. Организационный хаос это прекрасная возможность для программистов проявить свою суперсилу. Я специально говорю об этом в самом конце эссе, потому что это тайна всех программистов. Если вы не программист, пожалуйста, прекратите чтение прямо сейчас.
 
-> Engineers have the power to create and sustain.
+> Программисты могут создавать и поддерживать продукт.
 
-Non-engineers can order people around but, in a typical software company, can create and sustain nothing without engineers, just as engineers typically cannot sell a product or manage a business effectively. This power is proof against almost all of the problems associated with temporary organizational mayhem. When you have it you should ignore the chaos completely and carry on as if nothing is happening. You may, of course, get fired, but if that happens you can probably get a new job because of the magic power. More commonly, some stressed-out person who does not have the magic power will come into your cube and tell you to do something stupid. If you are really sure that it is stupid, it is best to smile and nod until they go away and then carry on doing what you know is best for the company.
+Неинженеры могут руководить людьми, но в типичной компании по разработке программного обеспечения они не могут ничего создать или поддерживать без инженеров. Точно так же типичные инженеры не смогут продать продукт или эффективно вести бизнес. Эта суперспособность защищает почти от всех проблем, связанных с временным организационным хаосом. Пока она с вами, вам следует игнорировать полностью хаос и продолжать делать свою работы, как будто ничего не происходит. Вас, конечно, могут уволить, но если это случится, то скорее всего вы найдете новую работу благодаря своей суперспособности. Но чаще всего кто-нибудь измученный стрессом придет к вам и прикажет делать что-нибудь глупое. Если вы совершенно уверены, что это глупо, то лучше всего улыбаться и кивать, пока этот человек не уйдет. А затем продолжать делать то, что вы считаете правильным для компании.
 
-If you are a leader, tell your people to do the same thing and tell them to ignore what anybody else tells them. This course of action is the best for you personally, and is the best for your company or project.
+Если вы лидер, скажите своей команде делать то же самое и игнорировать все, что ей будут говорить остальные. Такое поведение наиболее выгодно для вас лично и для всей компании или проекта.
 
-Next [Glossary](../../GLOSSARY.md)
+Следующее: [Глоссарий](../../GLOSSARY.md)

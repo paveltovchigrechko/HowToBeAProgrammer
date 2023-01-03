@@ -1,9 +1,9 @@
-# How to Tell People Things They Don't Want to Hear
+# Как сообщать неприятное
 
-You will often have to tell people things that will make them uncomfortable. Remember that you are doing this for a reason. Even if nothing can be done about the problem, you are telling them as early as possible so they will be well-informed.
+Часто вам придется говорить людям вещи, которые им не понравятся. Помните, что у вас есть на то причина. Даже если с проблемой ничего нельзя сделать, вы сообщаете о ней как можно раньше, чтобы все были информированы о ней.
 
-The best way to tell someone about a problem is to offer a solution at the same time. The second best way is to appeal to them for help with the problem. If there is a danger that you won't be believed, you should gather some support for your assertion.
+Лучший способ сообщить о проблеме - это тут же предложить способ ее решения. Второй хороший способ - это попросить о помощи в ее решении. Если есть вероятность, что вам не поверят, соберите доказательства своей правоты.
 
-One of the most unpleasant and common things you will have to say is, ‘The schedule will have to slip.’ The conscientious programmer hates to say this, but must say it as early as possible. There is nothing worse than postponing action when a milestone slips, even if the only action is to inform everyone. In doing this, it is better to do it as a team, at least in spirit, if not physically. You will want your team's input on both where you stand and what can be done about it, and the team will have to face the consequences with you.
+Одна из самых неприятных и частых фраз, которую вам придется произносить, это "График придется сдвинуть". Сознательный программист терпеть не может произносить ее, но должен делать это как можно раньше. Нет ничего хуже, чем откладывать решение, когда срывается этап проекта. Даже если решение заключается в информировании о проблеме. Когда такое проиходит, лучше всего сказать это от лица команды. Вам понадобится мнение вашей команды о проблеме и том, как ее решить, и участие команды в последствиях проблемы вместе с вами.
 
-Next [How to Deal with Managerial Myths](10-How-to-Deal-with-Managerial-Myths.md)
+Следующее: [Как справляться с менеджерскими мифами](10-How-to-Deal-with-Managerial-Myths.md)

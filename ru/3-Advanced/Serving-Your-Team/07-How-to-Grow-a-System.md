@@ -1,23 +1,23 @@
-# How to Grow a System
+# Как развивать систему
 
-The seed of a tree contains the idea of the adult but does not fully realize the form and potency of the adult. The embryo grows. It becomes larger. It looks more like the adult and has more of the uses. Eventually it bears fruit. Later, it dies and its body feeds other organisms.
+Семя содержит в себе идею дерева, но не имеет форму и мощь взрослого растения. Семя вырастает в саженец. Он становится больше. Он все больше похож на взрослое дерево. Дерево начичает приносить плоды. Наконец, оно умирает и служит пищей для других организмов.
 
-We have the luxury of treating software like that. A bridge is not like that; there is never a baby bridge, but merely an unfinished bridge. Bridges are a lot simpler than software.
+У нас есть роскошь относиться к программному обеспечению похожим образом. Мост не похож на него. Не бывает мостов-детей, бывают недостроенные мосты. Они гораздо проще, чем программное обеспечение.
 
-It is good to think of software as growing, because it allows us to make useful progress before we have a perfect mental image. We can get feedback from users and use that to correct the growth. Pruning off weak limbs is healthful.
+Полезно думать о программном обеспечении как о чем-то растущем, это позволяет нам добиться существенного прогресса до того, как у нас сложится идеальный мысленный образ того, что мы делаем. Мы можем использовать обратную связь от пользователей, чтобы скорректировать развитие системы. Всегда полезно обрезать слабые и ненужные ветки.
 
-The programmer must design a finished system that can be delivered and used. But the advanced programmer must do more. You must design a growth path that ends in the finished system. It is your job to take a germ of an idea and build a path that takes it as smoothly as possible into a useful artefact.
+Программист должен разработать законченную системы, которую можно поставлять и использовать. Но продвинутый программист должен гораздо больше. Вы должны разработать путь развития, который завершится готовой системой. Ваша работа - взять зародыш идеи и построить путь, который как можно плавнее приведет к оплезному продукту.
 
-To do this, you must visualize the end result and communicate it in a way that the engineering team can get excited about. But you must also communicate to them a path that goes from wherever they are now to where they want to be with no large leaps. The tree must stay alive the whole time; it cannot be dead at one point and resurrected later.
+Чтобы сделать это, вы должны визуализировать конечный результат и представить его так, чтобы ваша инженерная коианда загорелась им. Но кроме этого вы должны рассказать им без больших скачков весь путь, который ведет от текущей точки проекта до конечной. Дерево должно жить все это время, нельзя позволить ему умереть, а затем возрождать его.
 
-This approach is captured in spiral development. Milestones that are never too far apart are used to mark progress along the path. In the ultra-competitive environment of business, it is best if the milestones can be released and make money as early as possible, even if they are far away from a well-designed endpoint. One of the programmer's jobs is to balance the immediate pay-off against future pay-off by wisely choosing a growth path expressed in milestones.
+Этот подход отражен в спиральной разработке. Этапы проекты никогда не находятся далеко друг от друга и отмечают прогресс по пути проекта. В сверхконкурентной среде бизнеса лучше всего, если после каждого этапа программное обеспечение можно выпустить и заработать на этом денег, даже если оно все еще далеко от финального состояния. Одна из задач программиста - сбалансировать немедленную отдачу от проекта с будущей, тщательно выбирая путь прогресса, отраженный в его этапах.
 
-The advanced programmer has the triple responsibility of growing software, teams, and persons.
+Продвинутый программист несет тройную ответственность за развитие программного обеспечение, команд и отдельных людей.
 
-A reader, Rob Hafernik, sent in this comment on this section that I can do no better than to quote in full:
+Один из читателей, Роб Хаферник, прислал комментарий к этой части, который я не могу не привести полностью:
 
-> I think you under-emphasize the importance here. It's not just systems, but algorithms, user interfaces, data models, and so on. It's absolutely *vital* as you work on a large system to have measurable progress toward intermediate goals. Nothing is as bad as the special horror of getting down to the end and discovering that the whole thing just isn't going to work (look at the recent debacle of the Voter News System). I would even go further and state it as a law of nature: no large, complex system can be implemented from scratch, it can only be evolved from a simple system to a complex system in a series of intentional steps.
+> Я думаю, что вы недооценили важность этого вопроса. Он касается не только системы, но и алгоритмов, пользовательских интерфейсов, моделей данных и так далее. При работе над большой системой жизненно важно иметь измеряемый прогресс в достижении промежуточных целей. Ничто не сравнится с ужасом, когда вы доходите до конца и обнаруживаете, что все это просто не работает (посмотрите на недавний провал системы оповещения избирателей). Я бы пошел дальше и сформулировал бы это как природный закон: нельзя с листа построить большую и сложную систему. Ее можно только развить из небольшой в сложную через серию последовательных шагов.
 
-To which one can only reply *Fiat lux*!
+На это можно только ответить "Именно так!"
 
-Next [How to Communicate Well](08-How-to-Communicate-Well.md)
+Следующее: [Как качественно взаимодействовать](08-How-to-Communicate-Well.md)
