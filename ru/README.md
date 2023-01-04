@@ -23,7 +23,7 @@ Licensed under [Creative Commons Attribution-ShareAlike 4.0 International Licens
 	- Личные навыки
 		- [Научитесь отлаживать](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
 		- [Как отлаживать, разделяя пространство проблемы](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
-		- [Как устранять ошибки](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
+		- [Как устранять баги](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
 		- [Как отлаживать, используя логи](1-Beginner/Personal-Skills/04-How-to-Debug-Using-a-Log.md)
 		- [Как определять проблемы производительности](1-Beginner/Personal-Skills/05-How-to-Understand-Performance-Problems.md)
 		- [Как устранять проблемы производительности](1-Beginner/Personal-Skills/06-How-to-Fix-Performance-Problems.md)
